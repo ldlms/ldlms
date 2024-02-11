@@ -2,8 +2,8 @@
 
 
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ldlms/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ldlms/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ldlms&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
