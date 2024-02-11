@@ -1,9 +1,8 @@
 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
-
-![](https://raw.githubusercontent.com/ldlms/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ldlms/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ldlms&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
