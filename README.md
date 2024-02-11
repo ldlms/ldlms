@@ -1,6 +1,7 @@
 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ldlms&count_private=true&theme=tokyonight&showicons=true)]()
+Langages
+-------------------------------------------------------------------------------
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldlms&langs_count=5&theme=tokyonight)]()
 
 <a href="https://visitcount.itsvg.in">
