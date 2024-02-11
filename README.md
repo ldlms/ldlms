@@ -1,6 +1,11 @@
 👋
 
 Langages
+------------------------------------------------------------------------------
+<i class="devicon-php-plain"></i>
+
+
+Stats
 -------------------------------------------------------------------------------
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ldlms&langs_count=5&theme=tokyonight)]()
 
